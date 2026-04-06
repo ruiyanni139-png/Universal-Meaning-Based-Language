@@ -17,6 +17,8 @@ Accessed via: https://wuu.wikipedia.org/wiki/%E9%97%A8
 
 7. Beijing Municipal Language and Writing Work Committee Office (2019) Zhōngyú bǎ “Jiǎgǔwén duìzhàobiǎo” zhǎo quán le, dōu zài zhèlǐ la! [Finally found the complete “Oracle Bone Script Comparison Table”, all here!] Available at: https://jw.beijing.gov.cn/language/ywsh/201901/t20190103_1056839.html (Accessed: 6 April 2026).
 
+8. Feather (2025) Feather – Free & open source icons. Available at: https://feathericons.com/ (Accessed: 6 April 2026).
+
 
 ### Video Sources
 

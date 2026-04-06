@@ -43,6 +43,19 @@ Instead, it explores how a **purpose‑built second language** could support:
 - Global collaboration  
 
 ---
+## Spread/ — Public-Facing Materials and Undergraduate Research Support
+
+The repository also includes a **Spread** folder, which serves as the project’s public‑facing distribution center.  
+It contains polished Chinese and English PDFs, along with editable Markdown source files, specifically prepared for:
+
+- undergraduate students seeking **thesis topics**,  
+- instructors looking for **course‑ready materials**, and  
+- anyone needing a concise introduction to the UMBL project.
+
+The Spread folder provides ready‑to‑use documents such as project overviews, thesis topic guides, research topic lists, and promotional summaries.  
+Its primary purpose is to make UMBL **accessible as an academic research object**, especially for students exploring linguistics, cognitive science, information design, or language engineering.
+
+---
 
 ## 2. Repository Structure
 
@@ -84,7 +97,8 @@ It includes:
 
 - Blissymbolics（*contains only a link + disclaimer*）  
 - Circuit diagram symbols  
-- Egyptian hieroglyphs（Unicode‑based）  
+- Egyptian hieroglyphs（Unicode‑based） 
+- Feather_open_source_icons.pdf 
 - Hobo code  
 - ISO 7001 public information symbols  
 - ISO 7010 safety symbols  
@@ -95,6 +109,8 @@ It includes:
 
 These materials are not analyzed historically in the whitepaper;  
 they are provided as **ready‑to‑use components** and **design inspiration** for constructing semantic primitives and composite symbols.
+
+The **semantic_symbol_parts_warehouse** is designed to function analogously to a set of **semantic LEGO modules**, enabling designers and researchers to experiment with combinatorial structures, prototype new symbol forms, and explore meaning‑driven visual composition.
 
 ---
 

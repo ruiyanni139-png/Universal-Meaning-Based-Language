@@ -32,10 +32,6 @@ Esperanto uses alphabetic words for scientific concepts, which:
 - do not align with symbolic reasoning  
 - require memorizing long technical terms  
 
-### **4. They offer no advantage over English.**
-Esperanto does not reduce cognitive load, improve STEM accessibility, or integrate with digital systems.  
-As a result, it never achieved global adoption.
-
 ---
 
 ## 2. Why English Is Inequitable for Global STEM
@@ -106,40 +102,29 @@ These advantages make meaning-based systems inherently more scalable than phonet
 
 ---
 
-## 4. Why This Language Is Future-Proof
+### **7 Cognitive Differences Between Logographic and Phonographic Systems**
 
-The proposed universal language is designed for:
+Logographic writing systems encode meaning through visible structure. When
+encountering an unfamiliar word, readers often look at the internal components
+of the character or the combination of morphemes to understand why it is written
+in a particular way. The written form itself encourages attention to structure and
+possible semantic cues.
 
-### **1. The digital era**
-- machine readability  
-- global searchability  
-- long-term archival  
-- cross-platform compatibility  
+Phonographic systems encode sound rather than meaning. New words usually do
+not reveal their semantic content through their written form, so learners often rely
+on memorizing the sound sequence without examining internal structure. The
+writing system does not naturally prompt questions about why a word is written
+in a certain way.
 
-### **2. The scientific era**
-- integration with equations, diagrams, and data  
-- transparent terminology  
-- compositional semantics  
-
-### **3. The global era**
-- cultural neutrality  
-- local pronunciation freedom  
-- open-source governance  
-
-### **4. The AI era**
-- unambiguous symbolic structure  
-- predictable grammar  
-- compatibility with automated reasoning  
-
-Unlike phonetic languages, this system does not depend on historical accidents or cultural inheritance.  
-It is engineered for clarity, fairness, and universality.
+A system that exposes semantic structure in its written form can make it easier to
+**inspect unfamiliar terms**, while a sound‑based system may lead to a greater focus
+on rote memorization.
 
 ---
 
 ## Summary of Section XI
 
-Esperanto and other auxlangs failed because they remained phonetic and Eurocentric. English is globally dominant but structurally inequitable, especially in STEM. Meaning-based systems scale better across cultures because they encode concepts directly, reduce cognitive load, and integrate naturally with scientific notation. The proposed universal language is future-proof because it is designed for the digital, scientific, and global eras, not inherited from the past.
-
+Esperanto and other auxlangs failed because they remained phonetic and Eurocentric. English is globally dominant but structurally inequitable, especially in STEM. Meaning-based systems scale better across cultures because they encode concepts directly, reduce cognitive load, and integrate naturally with scientific notation. The ideographic system writes semantic clues directly into the glyphs, making it easier for readers to pay attention to the internal structure and possible meanings of new words when they encounter them.
 
 
 

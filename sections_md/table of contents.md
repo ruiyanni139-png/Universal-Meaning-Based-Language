@@ -90,6 +90,7 @@
   - 2. Removing Class-Based Barriers to STEM
   - 3. Creating a Fairer Knowledge Infrastructure
   - 4. Building a Universal Language Without Cultural Dominance
-
+  - 5. Cultural and Religious Vocabulary Boundaries
+  
 - XIII(13). Conclusion
 ---

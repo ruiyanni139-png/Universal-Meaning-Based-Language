@@ -68,7 +68,7 @@ These patterns reflect universal cognitive structures and align with:
 - scientific reasoning  
 - diagrammatic thinking  
 
-The goal is not to mimic any natural language, but to create a syntax that is:
+The goal is to create a syntax that is:
 
 - predictable  
 - visually interpretable  
@@ -108,7 +108,7 @@ This ensures compatibility with:
 - global data processing  
 - long-term digital preservation  
 
-The language becomes not only human-readable but **machine-native**.
+The language should be able to be efficiently processed by both humans and machines relative to natural languages.
 
 ---
 
@@ -142,14 +142,15 @@ This creates a transparent, reversible, and visually interpretable morphology.
 
 ### 5.3 Purpose/Accusative Marker
 
-A single, compact **purpose/accusative operator** marks directed action or affected objects.  
-It is:
+A single, compact **purpose/accusative** marker indicates the object of an action.
 
-- non-phonetic  
-- placed in a fixed spatial position  
-- inspired by mathematical and physical notation  
+- Unlike visual operators or positional markers, the accusative must function in both writing and speech.
 
-This enables syntactic relations to be read at a glance without increasing linear complexity.
+- To avoid inflectional complexity and prevent changes to the pronunciation of base words, the accusative should expressed as an independent, monosyllabic grammatical character.
+
+- It should attach to nouns in a fixed linear position and should have its own stable pronunciation, similar to how Chinese uses “的” or “们” as standalone grammatical markers.
+
+- This will ensure that grammatical relations remain clear in spoken communication without requiring multiple inflected forms or phonological adjustments.
 
 ---
 
@@ -178,4 +179,4 @@ This ensures the symbolic and phonological system remains universally accessible
 
 ## Summary of Section VIII
 
-The grammar and syntax of the universal language prioritize simplicity, uniformity, and logical structure. Morphology is minimized through visual radicals and substitution-based transformations. Grammatical relations are expressed through compact operators and stacked symbolic logic inspired by mathematics and physics. The system avoids cultural bias by maintaining strict neutrality in both character formation and official pronunciation. Sentence patterns reflect universal cognitive logic rather than regional conventions, ensuring clarity for humans and machines alike and enabling seamless integration with scientific and digital reasoning.
+The grammar and syntax of the universal language prioritize simplicity, uniformity, and logical structure. Morphology is minimized through visual radicals and substitution-based transformations. Grammatical relations are expressed through compact operators and stacked symbolic logic inspired by mathematics and physics. The system avoids cultural bias by maintaining strict neutrality in both character formation and official pronunciation. Sentence patterns reflect universal cognitive logic rather than regional conventions, ensuring clarity for humans and machines alike and enabling smooth integration with scientific and digital reasoning.

@@ -253,6 +253,19 @@ Semantic updates are coordinated through a centralized, open, version‑controll
 
 This ensures that semantic evolution remains synchronized, scientifically grounded, and globally interoperable.
 
+### Another Example: Domain‑Specific Semantic Differentiation (“Variable” Across Disciplines)
+
+In natural languages, the same written word is often used to represent conceptually different ideas across disciplines. This is not a problem unique to English; Chinese also uses the same term “变量” regardless of whether the context is computer science or natural science. Although these concepts share the general notion of “something that can change,” their functional roles and cognitive categories are fundamentally different.
+
+In computer science, a “variable” refers to an abstract symbolic container inside a program—an assignable placeholder that stores values and has no direct physical counterpart. In natural‑science fields such as biology, meteorology, or geology, a “variable” refers to a measurable quantity in the physical world, such as temperature, humidity, heart rate, soil moisture, or rock density. These two uses of the same term belong to different conceptual domains.
+
+Natural languages often fail to visually distinguish these meanings. Learners must rely solely on context to infer the intended meaning, which increases cognitive load and makes cross‑disciplinary learning more error‑prone.
+
+A meaning‑based writing system can address this structural limitation directly. By assigning different semantic radicals to different conceptual domains, the system should visually encode distinctions. For example, UMBL could use:
+
+- a “symbol/code” radical for variables in computer science,  
+- a “measurement/physical quantity” radical for variables in natural sciences.
+
 ---
 
 ## Summary of Section VI

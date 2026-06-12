@@ -93,3 +93,15 @@ Accessed via: <span style="color: #0000ff; text-decoration: underline;">https://
 7. Lins, U. (2017) Dangerous Language: Esperanto and the Decline of Stalinism. London: Palgrave Macmillan. Available at: <span style="color: #0000ff; text-decoration: underline;">https://www.scribd.com/document/410329926/Ulrich-Lins-auth-Dangerous-Language-Esperanto-and-the-Decline-of-Stalinism-Palgrave-Macmillan-UK-2017-pdf</span> (Accessed: 30 May 2026).
 
 8. Rehder, E. (2017) Gottfried Wilhelm Leibniz: Band 1 - Bibliographie seiner zu Lebzeiten veröffentlichten Druckschriften und Chronologie seines Lebens. Barsbüttel: Elke Rehder Presse. Available at: <span style="color: #0000ff; text-decoration: underline;">https://www.elke-rehder.de/Antiquariat/leibniz-werk-chronik.pdf</span> (Accessed: 9 June 2026).
+
+### Usefull related Videos:
+
+1. 漢字叔叔講漢字 (2026) *汉字最美丽的地方(The most beautiful part of Chinese characters)*. YouTube video. Available at: <span style="color: #0000ff; text-decoration: underline;">https://youtu.be/JpqEx7eGc4I?si=kd7lX2PRWHp0Np_D</span> (Accessed: 13 June 2026).
+
+2. Mandarin Blueprint (2026) *Chinese Makes More Sense Than English*. YouTube video. Available at: <span style="color: #0000ff; text-decoration: underline;">https://www.youtube.com/watch?v=xVlnlfima3w</span> (Accessed: 13 June 2026).
+
+3. ElitPonkots (2025) *The Chinese periodic table goes hard*. YouTube video. Available at: <span style="color: #0000ff; text-decoration: underline;">https://www.youtube.com/watch?v=8ol7DsPnHcE</span> (Accessed: 13 June 2026).
+
+4. 汉字叔叔的字源课 (2026) *最冷的一个汉字(the coldest Chinese character)*. Bilibili video. Available at: <span style="color: #0000ff; text-decoration: underline;">https://b23.tv/xSjTI16</span> (Accessed: 13 June 2026).
+
+
